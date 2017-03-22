@@ -1,0 +1,19 @@
+{
+  "name": "roman-numerals-converter",
+  "version": "0.1.0",
+  "description": "roman numerals converter",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wahyuhidayatt/npm-package.git"
+  },
+  "author": "Wahyu.H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wahyuhidayatt/npm-package/issues"
+  },
+  "homepage": "https://github.com/Wahyuhidayatt/npm-package#readme"
+}
